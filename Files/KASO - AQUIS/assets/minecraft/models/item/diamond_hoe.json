@@ -1,0 +1,33 @@
+{
+   
+"parent": "item/handheld",
+
+"textures": {
+        "layer0": "items/diamond_hoe"
+
+}
+,
+"overrides": [
+ {"predicate": {"damage": 0.98655569782}, "model": "item/ore_drops/plao5v/ruby"},
+ {"predicate": {"damage": 0.98719590268}, "model": "item/ore_drops/plao5v/radon"},
+ {"predicate": {"damage": 0.98783610755}, "model": "item/ore_drops/plao5v/platinum_ingot"},
+ {"predicate": {"damage": 0.98847631242}, "model": "item/ore_drops/plao5v/osmium"},
+ {"predicate": {"damage": 0.98911651728}, "model": "item/ore_drops/plao5v/mithril_ingot"},
+ {"predicate": {"damage": 0.98975672215}, "model": "item/ore_drops/uthuma/opal"},
+ {"predicate": {"damage": 0.99039692701}, "model": "item/ore_drops/uthuma/nickel_ingot"},
+ {"predicate": {"damage": 0.99103713188}, "model": "item/ore_drops/uthuma/cinnabar"},
+ {"predicate": {"damage": 0.99167733674}, "model": "item/ore_drops/uthuma/ardite_ingot"},
+ {"predicate": {"damage": 0.99231754161}, "model": "item/ore_drops/uthuma/aluminum"},
+ {"predicate": {"damage": 0.99295774647}, "model": "item/ore_drops/duratus/sapphire"},
+ {"predicate": {"damage": 0.99359795134}, "model": "item/ore_drops/duratus/lead_ingot"},
+ {"predicate": {"damage": 0.99423815621}, "model": "item/ore_drops/duratus/frostite"},
+ {"predicate": {"damage": 0.99487836107}, "model": "item/ore_drops/duratus/azurite"},
+ {"predicate": {"damage": 0.99551856594}, "model": "item/ore_drops/duratus/alumite_ingot"},
+ {"predicate": {"damage": 0.9961587708}, "model": "item/ore_drops/aquis/topaz"},
+ {"predicate": {"damage": 0.99679897567}, "model": "item/ore_drops/aquis/silver_ingot"},
+ {"predicate": {"damage": 0.99743918053}, "model": "item/ore_drops/aquis/plutonium"},
+ {"predicate": {"damage": 0.9980793854}, "model": "item/ore_drops/aquis/cobalt_ingot"},
+ {"predicate": {"damage": 0.99871959026}, "model": "item/ore_drops/aquis/aquamarine"},
+ {"predicate": {"damage": 0.999359795}, "model": "item/ore_drops/aquis/anahydris"}
+]
+}
